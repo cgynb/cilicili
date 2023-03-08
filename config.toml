@@ -1,0 +1,14 @@
+page_size = 5
+[redis]
+host = "127.0.0.1"
+port = "6379"
+db = 0
+[mysql]
+user = ""
+password = ""
+host = ""
+port = ""
+dns = ""
+[token]
+secret_key = "cgynbnbznb"
+effect_time = 7200000000000
